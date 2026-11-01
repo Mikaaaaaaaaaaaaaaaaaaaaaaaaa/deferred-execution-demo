@@ -1,0 +1,15 @@
+C:\Users\Micael Sanchez\source\repos\DeferredExecutionDemo\DeferredExecutionDemo\obj\Debug\net8.0\DeferredExecutionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micael Sanchez\source\repos\DeferredExecutionDemo\DeferredExecutionDemo\obj\Debug\net8.0\DeferredExecutionDemo.AssemblyInfoInputs.cache
+C:\Users\Micael Sanchez\source\repos\DeferredExecutionDemo\DeferredExecutionDemo\obj\Debug\net8.0\DeferredExecutionDemo.AssemblyInfo.cs
+C:\Users\Micael Sanchez\source\repos\DeferredExecutionDemo\DeferredExecutionDemo\obj\Debug\net8.0\DeferredExecutionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Micael Sanchez\source\repos\DeferredExecutionDemo\DeferredExecutionDemo\obj\Debug\net8.0\DeferredExecutionDemo.sourcelink.json
+C:\Users\Micael Sanchez\source\repos\DeferredExecutionDemo\DeferredExecutionDemo\bin\Debug\net8.0\DeferredExecutionDemo.exe
+C:\Users\Micael Sanchez\source\repos\DeferredExecutionDemo\DeferredExecutionDemo\bin\Debug\net8.0\DeferredExecutionDemo.deps.json
+C:\Users\Micael Sanchez\source\repos\DeferredExecutionDemo\DeferredExecutionDemo\bin\Debug\net8.0\DeferredExecutionDemo.runtimeconfig.json
+C:\Users\Micael Sanchez\source\repos\DeferredExecutionDemo\DeferredExecutionDemo\bin\Debug\net8.0\DeferredExecutionDemo.dll
+C:\Users\Micael Sanchez\source\repos\DeferredExecutionDemo\DeferredExecutionDemo\bin\Debug\net8.0\DeferredExecutionDemo.pdb
+C:\Users\Micael Sanchez\source\repos\DeferredExecutionDemo\DeferredExecutionDemo\obj\Debug\net8.0\DeferredExecutionDemo.dll
+C:\Users\Micael Sanchez\source\repos\DeferredExecutionDemo\DeferredExecutionDemo\obj\Debug\net8.0\refint\DeferredExecutionDemo.dll
+C:\Users\Micael Sanchez\source\repos\DeferredExecutionDemo\DeferredExecutionDemo\obj\Debug\net8.0\DeferredExecutionDemo.pdb
+C:\Users\Micael Sanchez\source\repos\DeferredExecutionDemo\DeferredExecutionDemo\obj\Debug\net8.0\DeferredExecutionDemo.genruntimeconfig.cache
+C:\Users\Micael Sanchez\source\repos\DeferredExecutionDemo\DeferredExecutionDemo\obj\Debug\net8.0\ref\DeferredExecutionDemo.dll
